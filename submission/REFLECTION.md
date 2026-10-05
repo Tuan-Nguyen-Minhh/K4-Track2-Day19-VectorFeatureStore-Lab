@@ -1,6 +1,6 @@
 # Reflection — Lab 19
 
-**Tên:** _<Họ Tên — ĐIỀN TÊN TRƯỚC KHI PUSH>_
+**Tên:** _NguyenMinhTuan-2A202602850_
 **Cohort:** _A20-K4_
 **Path đã chạy:** _lite_
 
